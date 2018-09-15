@@ -1,0 +1,53 @@
+body
+{
+    padding-top: 100px;
+    font-family: "segoe ui light";
+}
+.navbar ul li 
+{
+padding-left: 5px;
+padding-right: 5px;
+
+}
+.navbar ul li a 
+{
+font-size: 20px;
+font-weight: 900;
+
+}
+
+
+.navbar ul li button  
+{
+	
+	font-size: 20px;
+    font-weight: 700;
+}
+.navbar-brand img
+{
+    width: 60px;
+    height:auto;
+}
+
+
+#servives h1
+{
+font-weight: 900;
+padding-bottom: 10px;
+}
+#servives .feature
+{
+    
+    padding: 20px;
+
+}
+#servives .feature h3 
+{
+font-size: 25px;
+color: rgb(193, 35, 35);
+font-weight: 600;
+}
+#servives .feature img
+{
+width: 400px;
+}
