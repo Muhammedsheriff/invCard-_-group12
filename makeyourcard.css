@@ -1,0 +1,221 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.navbar-collapse
+{
+    margin-left: 100px!important;
+    
+}
+#navsec
+{
+    position: fixed;
+    width: 100%;
+   top:0px;
+    z-index: 2355666;
+    
+    
+}
+#your-card
+{
+   
+    height: 420px;
+    background-color: white;
+     margin-top: 30px;
+    
+    
+    
+}
+#your-menu
+{
+    
+    height: 440px;
+    
+    margin-left: 0;
+    margin-left: 0;
+    background-color: crimson;
+   
+
+   
+}
+#your-tools
+{
+    
+    height: 440px;
+    background-color: crimson;
+    margin-top: 30px;
+   
+    
+       
+    
+}
+body
+{
+    background-color:#f5f5f5;
+}
+
+#cards
+{
+  width: 100%;
+    margin-top: 150px;
+    
+}
+.sett
+{
+    text-decoration: none;
+    list-style: none;
+   
+}
+#settings
+{
+    margin-top: 20px;
+}
+.delete
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+     margin-left: 70px;
+}
+.fa-download
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+       margin-left: 40px;
+}
+
+.fa-undo
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+       margin-left: 70px;
+}
+.fa-redo
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+       margin-left: 70px;
+}
+#rotate
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+       margin-left: 70px;
+}
+.fa-search-plus
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+       margin-left: 70px;
+}
+.fa-search-minus
+{
+    
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+       margin-left: 70px;
+}
+.color-options
+{
+    background-color: #ccc;
+    border: solid 2px teal;
+    padding: 10px;
+    float: left;
+    
+        
+}
+#options ul li
+{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    cursor: pointer;
+}
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+}
+
+#mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+}
+.hhh
+{
+    display: none;
+}
+canvas
+{ 
+    border: 1px solid #ccc
+}
+.fff
+{
+   display: inline-block;
+}
+.navbar ul li a 
+{
+font-size: 20px;
+font-weight: 900;
+
+}
+
+
+.navbar ul li button  
+{
+	
+	font-size: 20px;
+    font-weight: 700;
+}
+.navbar-brand img
+{
+    width: 60px;
+    height:auto;
+}
+body
+{ 
+font-family: "segoe ui light";
+}
+.navbar a
+{
+color: #d09017;
+font-size: 25px;
+font-weight: 700;
+margin-left: 5px;
+}
+.navbar ul li 
+{
+padding-left: 5px;
+padding-right: 5px;
+
+}
+#footer
+{
+    margin-top: 15px;
+    border-top: 2px solid white;
+    
+}
+i
+{
+    color: white;
+}
