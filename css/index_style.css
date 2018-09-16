@@ -1,7 +1,13 @@
 body
+{ 
+font-family: "segoe ui light";
+}
+.navbar a
 {
-    padding-top: 100px;
-    font-family: "segoe ui light";
+color: #d09017;
+font-size: 25px;
+font-weight: 700;
+margin-left: 5px;
 }
 .navbar ul li 
 {
@@ -50,4 +56,48 @@ font-weight: 600;
 #servives .feature img
 {
 width: 400px;
+}
+
+#about h1
+{
+font-weight: 900;
+padding-bottom: 30px;
+}
+#about p
+{
+font-size: 20px;   
+text-align: center;
+font-weight: 600;
+}
+#footer
+{
+background-color: #1a1922;
+}
+#footer .inf h3 
+{
+font-size: 22px;
+font-weight: 700;
+color:#c0c7cc;
+}
+#footer .inf p
+{
+font-size: 15px;
+font-weight: 600;
+color: #c0c7cc;
+}
+#footer h5
+{
+font-size: 18px;
+font-weight: 700;
+color:#919395;
+}
+ .icon 
+{
+margin: 5px;
+color: #a6b9b9;
+transition: all 1s;
+}
+.icon:hover
+{
+color: #2f0ac9;
 }
