@@ -3,6 +3,10 @@ body
  
 font-family: "segoe ui light";
 }
+.make
+{
+	text-decoration: none;
+}
 .navbar a
 {
 color: #d09017;
