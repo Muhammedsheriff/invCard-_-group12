@@ -3,11 +3,48 @@
 }
 
 body {
-
+font-family: "segoe ui light";
   text-align: center;
   background-image: url(../images/login.jpg);
   background-size: 100% 100%;
 }
+.all
+{
+padding-top: 50px;
+}
+.navbar a
+{
+color: #d09017;
+font-size: 25px;
+font-weight: 700;
+margin-left: 5px;
+}
+.navbar ul li 
+{
+padding-left: 5px;
+padding-right: 5px;
+
+}
+.navbar ul li a 
+{
+font-size: 20px;
+font-weight: 900;
+
+}
+
+
+.navbar ul li button  
+{
+	
+	font-size: 20px;
+    font-weight: 700;
+}
+.navbar-brand img
+{
+    width: 60px;
+    height:auto;
+}
+
 
 .panda {
   position: relative;

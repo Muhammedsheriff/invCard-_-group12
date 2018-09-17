@@ -1,5 +1,6 @@
 body
-{ 
+{
+ 
 font-family: "segoe ui light";
 }
 .navbar a
@@ -35,7 +36,10 @@ font-weight: 900;
     height:auto;
 }
 
-
+#servives
+{
+margin-top: 40px;
+}
 #servives h1
 {
 font-weight: 900;
@@ -57,7 +61,10 @@ font-weight: 600;
 {
 width: 400px;
 }
-
+#about
+{
+margin-top: 40px;
+}
 #about h1
 {
 font-weight: 900;
