@@ -5,8 +5,7 @@
 body {
 font-family: "segoe ui light";
   text-align: center;
-  background-image: url(../images/login.jpg);
-  background-size: 100% 100%;
+ 
 }
 .all
 {
@@ -418,4 +417,36 @@ h1 {
   40% , 80% {
     left: -20px;
   }
+}
+#footer
+{
+background-color: #1a1922;
+}
+#footer .inf h3 
+{
+font-size: 22px;
+font-weight: 700;
+color:#c0c7cc;
+}
+#footer .inf p
+{
+font-size: 15px;
+font-weight: 600;
+color: #c0c7cc;
+}
+#footer h5
+{
+font-size: 18px;
+font-weight: 700;
+color:#919395;
+}
+ .icon 
+{
+margin: 5px;
+color: #a6b9b9;
+transition: all 1s;
+}
+.icon:hover
+{
+color: #2f0ac9;
 }

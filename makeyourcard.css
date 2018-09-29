@@ -21,8 +21,8 @@
 {
    
     height: 420px;
-    background-color: white;
-     margin-top: 30px;
+    background-color:#cec9c9;;
+     margin-top: 10px;
     
     
     
@@ -34,7 +34,6 @@
     
     margin-left: 0;
     margin-left: 0;
-    background-color: crimson;
    
 
    
@@ -43,8 +42,7 @@
 {
     
     height: 440px;
-    background-color: crimson;
-    margin-top: 30px;
+    margin-top: 10px;
    
     
        
@@ -69,14 +67,14 @@ body
 }
 #settings
 {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .delete
 {
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color:#626262;
      margin-left: 70px;
 }
 .fa-download
@@ -84,7 +82,7 @@ body
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+   color:#626262;
        margin-left: 40px;
 }
 
@@ -93,7 +91,7 @@ body
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color:#626262;
        margin-left: 70px;
 }
 .fa-redo
@@ -101,7 +99,7 @@ body
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color:#626262;
        margin-left: 70px;
 }
 #rotate
@@ -109,7 +107,7 @@ body
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color:#626262;
        margin-left: 70px;
 }
 .fa-search-plus
@@ -117,7 +115,7 @@ body
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color:#626262;
        margin-left: 70px;
 }
 .fa-search-minus
@@ -126,7 +124,7 @@ body
     font-size: 40px;
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color:#626262;
        margin-left: 70px;
 }
 .color-options

@@ -1,0 +1,89 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.navbar-collapse
+{
+    margin-left: 100px!important;
+    
+}
+#navsec
+{
+    position: fixed;
+    width: 100%;
+   top:0px;
+    z-index: 2355666;
+    
+    
+}
+body
+{ 
+font-family: "segoe ui light";
+}
+.navbar a
+{
+color: #d09017;
+font-size: 25px;
+font-weight: 700;
+margin-left: 5px;
+}
+.navbar ul li 
+{
+padding-left: 5px;
+padding-right: 5px;
+
+}#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    display: none;
+}
+
+#mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+}
+.navbar ul li a 
+{
+font-size: 20px;
+font-weight: 900;
+
+}
+
+
+.navbar ul li button  
+{
+	
+	font-size: 20px;
+    font-weight: 700;
+}
+.navbar-brand img
+{
+    width: 60px;
+    height:auto;
+}
+.rrr
+{
+    margin-top: 90px;
+}
+.rrr img
+{
+    margin-left: 10px;
+    
+}
+
+.sora
+{
+    width: 100px;
+    height: auto;
+}
+.awl
+{
+    margin-top: 90px;
+}
