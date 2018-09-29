@@ -23,27 +23,24 @@
     height: 420px;
     background-color:#cec9c9;;
      margin-top: 10px;
-    
+    margin-bottom: 30px;
     
     
 }
 #your-menu
 {
     
-    height: 440px;
     
     margin-left: 0;
     margin-left: 0;
-   
+   margin-bottom: 30px;
 
    
 }
 #your-tools
 {
-    
-    height: 440px;
-    margin-top: 10px;
-   
+
+   margin-bottom: 30px;
     
        
     
@@ -216,4 +213,12 @@ padding-right: 5px;
 i
 {
     color: white;
+}
+ .icon 
+{
+transition: all 1s;
+}
+.icon:hover
+{
+color: #930f14;
 }
